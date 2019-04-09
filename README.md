@@ -1,10 +1,13 @@
 # Friend Finder - Node and Express Servers
 
-### Overview
+## Overview:
 
-In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+FriendFinder is a compatibility-based application -- basically a dating app. This full-stack site takes in results from users surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
+Express is used to handle routing.
+
+REPLACE GIF WITH NEW RUN THROUGH OF WEB APP
+> ![gif](https://j.gifs.com/qjDJE3.gif)
 
 ### Instructions
 
@@ -58,3 +61,28 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
    * The modal should display both the name and picture of the closest match.
    
 ### https://afternoon-brushlands-45704.herokuapp.com/
+
+---
+
+## Built with:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language
+- [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser
+- [JSON](http://www.json.org) - Data format
+- [MySQL](https://www.mysql.com) - Database
+- [MAMP](https://www.mamp.info/en/) - Access to local PHP server and MYSQL server
+- [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft
+
+#### npm packages used:
+
+- [express](https://www.npmjs.com/package/express) - A collection of common interactive command line user interfaces
+- [mysql](https://www.npmjs.com/package/dotenv) - Node.js driver for MySQL
+- [path](https://www.npmjs.com/package/path) - Utilities for working with file and directory paths
+- [morgan](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for node.js
+- [body-parser](https://www.npmjs.com/package/body-parser) - Node.js body parsing middleware
+
+---
+
+#### Check me out on LinkedIn!
+
+https://linkedin.com/in/matthewrhopkins/
