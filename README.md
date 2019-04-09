@@ -1,12 +1,14 @@
 # Friend Finder - Node and Express Servers
 
+### https://afternoon-brushlands-45704.herokuapp.com/
+
 ## Overview:
 
 FriendFinder is a compatibility-based application -- basically a dating app. This full-stack site takes in results from users surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
 Express is used to handle routing.
 
-REPLACE GIF WITH NEW RUN THROUGH OF WEB APP
+## REPLACE GIF WITH NEW RUN THROUGH OF WEB APP
 > ![gif](https://j.gifs.com/qjDJE3.gif)
 
 ### Instructions
@@ -59,8 +61,6 @@ REPLACE GIF WITH NEW RUN THROUGH OF WEB APP
 
 7. Once you've found the current user's most compatible friend, display the result as a modal pop-up.
    * The modal should display both the name and picture of the closest match.
-   
-### https://afternoon-brushlands-45704.herokuapp.com/
 
 ---
 
