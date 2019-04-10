@@ -8,9 +8,6 @@ FriendFinder is a compatibility-based application -- basically a dating app. Thi
 
 Express is used to handle routing.
 
-## REPLACE GIF WITH NEW RUN THROUGH OF WEB APP
-> ![gif](https://j.gifs.com/qjDJE3.gif)
-
 ### Instructions
 
 1. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
